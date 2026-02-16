@@ -1,0 +1,8 @@
+
+{
+  "name": "SuaraKita AI - Voice Morph",
+  "description": "Sebuah aplikasi AI canggih yang memungkinkan Anda berbicara dan mendengar respon dalam suara karakter yang berbeda menggunakan teknologi Gemini Live API secara real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
